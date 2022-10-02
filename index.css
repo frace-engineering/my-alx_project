@@ -16,3 +16,10 @@ p{
 	background-color:#edf;
 	color:#000;
 }
+div.box{
+	background-image:linear-gradient(to right, blue, white);
+	height:60px;
+	display:inline-block;
+	border:3px solid yellow;
+	border-radius:20px;
+}
