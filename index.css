@@ -7,13 +7,10 @@ div.container{
 	background-color:#eef;
 }
 h1{
-	color:blue;
+	color:pink;
 	font-style:italic;
 }
 p{
 	background-color:#edf;
 	color:#000;
-}
-h1:nth-child(2){
-	color:pink;
 }
