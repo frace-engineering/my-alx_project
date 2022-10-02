@@ -5,6 +5,8 @@ body{
 
 div.container{
 	background-color:#eef;
+	width:60%;
+	margin:0 auto;
 }
 h1{
 	color:pink;
